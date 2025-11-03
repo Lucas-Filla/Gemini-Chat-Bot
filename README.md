@@ -19,7 +19,7 @@ uv venv
 uv pip install -q -U google-genai
 uv pip install pillow
 ```
-5) Export your Gemini Api Key
+5) Export your Gemini Api Key (Image generation only works with paid key)
 ```
 // Mac & Linux
 export GEMINI_API_KEY="YOUR_KEY"
