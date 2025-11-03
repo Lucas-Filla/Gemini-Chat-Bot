@@ -32,8 +32,8 @@ $env:GEMINI_API_KEY = "YOUR_KEY"
 python main.py
 
 // Image Description
-python main.py img /image_path
+python main.py desc_img /image_path
 
 // Image Generation
-python main.py genimg
+python main.py gen_img
 ```
