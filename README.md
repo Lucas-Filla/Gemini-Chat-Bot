@@ -28,10 +28,12 @@ $env:GEMINI_API_KEY = "YOUR_KEY"
 ```
 6) Use it!
 ```
-//Prompting
+// Prompting
 python main.py
-//Image Description
+
+// Image Description
 python main.py img /image_path
-//Image Generation
+
+// Image Generation
 python main.py genimg
 ```
