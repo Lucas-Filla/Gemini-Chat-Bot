@@ -28,12 +28,5 @@ $env:GEMINI_API_KEY = "YOUR_KEY"
 ```
 6) Use it!
 ```
-// Prompting
 uv run main.py
-
-// Image Description
-uv run main.py desc_img /image_path
-
-// Image Generation
-uv run main.py gen_img
 ```
